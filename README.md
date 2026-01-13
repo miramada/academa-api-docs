@@ -1178,14 +1178,6 @@ if (!isConnected) {
 
 ---
 
-## 📞 Support & Contact
-
-- **API Base**: https://www.hurras.net/wp-json
-- **Website**: https://www.hurras.net
-- **Developer**: Amir @ AcademaPress
-
----
-
 ## 📝 Changelog
 
 ### Version 1.3.0 (January 14, 2025)
